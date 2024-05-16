@@ -1,21 +1,3 @@
-#TODO: Write the functions for arithmatic operations here
-#These functions should cover Task 2
-
-
-
-#-------------------------------------
-#TODO: Write the select_op(choice) function here
-#This function sould cover Task 1 (Section 2) and Task 3
-
-
-
-
-
-
-#End the select_op(choice) function here
-#-------------------------------------
-#This is the main loop. It covers Task 1 (Section 1)
-#YOU DO NOT NEED TO CHANGE ANYTHING BELOW THIS LINE
 History=[]
 while True:
   print("Select operation.")
