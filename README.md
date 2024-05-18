@@ -32,5 +32,4 @@ To use the calculator, simply run the `calculator.py` script in your Python envi
 - Division: `/`
 - History: `?`
 
-### Example Usage
 
